@@ -6,7 +6,7 @@
   {%- if align == "left" -%} <div class="row"> {%- endif -%}
     <div class="half-width gallery-preview {{ align }}">
       <figure>
-        <a href="{{ site.url }}{{ site.baseurl }}/albums/{{ gallery.id }}">
+        <a href="{{ site.baseurl }}/albums/{{ gallery.id }}">
           <img alt="{{ gallery.title }}" src="{{ gallery.image }}" style="width: {{ site.data.galleries.overview.image_width }}" />
         </a>
         <figcaption>{{ gallery.title }}</figcaption>

@@ -12,7 +12,7 @@ email Sean at sconnor99@gmail.com.
 | Scott Jackson, Vice President      | jacksons@mchsi.com      |
 | Barb 'Erbs' McDermott, Secretary   | erbsmcdermott@yahoo.com |
 | Chris Connor, Treasurer/Membership | mikeconnor@charter.net  |
-| Chuck Rogers, Newsletter Editor    | clrogers@charter.net    |
+| Megan Connor, Newsletter Editor    | flamyobsessor@yahoo.com |
 | Dave Farmer                        | fordee8@yahoo.com       |
 | Floyd Johnson                      | fjohnson@mwt.net        |
 | Roger McDermott                    | erbsmcdermott@tds.net   |

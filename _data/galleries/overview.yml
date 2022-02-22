@@ -1,6 +1,12 @@
 image_width: 300px
 albums:
 -
+ id: T5install
+ link: "https://photos.app.goo.gl/CkACgzfXGXX2Loti9"
+ title: "Badgerland T5 Install"
+ description: "49 new photos added to shared album"
+ image: "https://lh3.googleusercontent.com/9SQHbXnX19pkyD2E39VYCj863ndpnwHF7wdjNqaZ_cCNJrDtlrF_tuDMeNQZcR_PN2n6QWrTYs9AB-lJQ6Jme1FJ2OzKDhBWcMCVa5kB49vUmxeJS5bg6R3foLmWvcOy823LFRdnitU=w1920-h1080"
+-
  id: dash11
  link: "https://photos.app.goo.gl/HpSnBJjL1q6ioMDh8"
  title: "Dash to the Dells 11"

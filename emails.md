@@ -8,15 +8,16 @@ email Sean at sconnor99@gmail.com.
 
 | Name                               | E-mail Address          |
 |------------------------------------|-------------------------|
-| Mike Connor, President             | mikeconnor@charter.net  |
+| Rick Pribbenow, President          | riknroz@charter.net     |
 | Scott Jackson, Vice President      | jacksons@mchsi.com      |
-| Barb 'Erbs' McDermott, Secretary   | erbsmcdermott@yahoo.com |
-| Chris Connor, Treasurer/Membership | mikeconnor@charter.net  |
-| Megan Connor, Newsletter Editor    | flamyobsessor@yahoo.com |
+| Mike Tolvstad, Secretary           | mjtolvstad@charter.net  |
+| Chris Connor, Treasurer/Membership | mikesfine56@gmail.com   |
+| Megan Connor, Newsletter Editor    | nifty50six@gmail.com    |
 | Dave Farmer                        | fordee8@yahoo.com       |
 | Floyd Johnson                      | fjohnson@mwt.net        |
 | Roger McDermott                    | erbsmcdermott@tds.net   |
-| Rick Pribbenow                     | riknroz@charter.net     |
+| Mike Connor                        | mikeconnor@charter.net  |
 | Mike Sonn                          | fat_fenders@yahoo.com   |
+| Barb 'Erbs' McDermott              | erbsmcdermott@yahoo.com |
 | Paul Zeien                         | wallyz79@yahoo.com      |
 | Sean Connor, Webmaster             | sconnor99@gmail.com     |

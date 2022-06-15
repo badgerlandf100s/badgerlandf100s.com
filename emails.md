@@ -17,5 +17,4 @@ title: Members
 | Mike Connor                        |                         |
 | Mike Sonn                          |                         |
 | Barb 'Erbs' McDermott              |                         |
-| Paul Zeien                         |                         |
 | Sean Connor, Webmaster             | sconnor99@gmail.com     |
